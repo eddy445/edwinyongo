@@ -2,7 +2,7 @@
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning LPIC
 - 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me edwin.yongo@outlook.com
+
 
 <!---
 edwinyongo/edwinyongo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
